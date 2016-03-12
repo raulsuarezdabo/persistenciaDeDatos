@@ -167,7 +167,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <searchBar contentMode="redraw" searchBarStyle="minimal" translatesAutoresizingMaskIntoConstraints="NO" id="hz0-L8-rp1">
+                            <searchBar contentMode="redraw" searchBarStyle="minimal" placeholder="Enter an ISBN" translatesAutoresizingMaskIntoConstraints="NO" id="hz0-L8-rp1">
                                 <rect key="frame" x="20" y="72" width="560" height="44"/>
                                 <textInputTraits key="textInputTraits"/>
                             </searchBar>
